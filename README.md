@@ -1,3 +1,3 @@
-👋 #Hi, I’m Nandana S Nair
+# 👋 Hi, I’m **Nandana S Nair**
 
-AI & ML enthusiast | Computer Vision | Problem solver
+**AI & ML Enthusiast | Computer Vision | Problem Solver**
